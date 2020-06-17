@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "activate_account": {
+      "id": "1",
+      "picture": "1",
+      "token": {
+        "access_token": "1",
+        "refresh_token": 1
+      }
+    },
+    "accounts": {
+      "1": {
+        "id": "1",
+        "picture": "1",
+        "token": {
+          "access_token": "1",
+          "refresh_token": 1
+        }
+      }
+    }
+  }
+]
